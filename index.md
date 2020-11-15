@@ -1,6 +1,6 @@
 ## Welcome to GitHub Pages
 
-You can use the [editor on GitHub](https://github.com/faranbutt/interest.github.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+MY facebook link [editor on GitHub](https://www.facebook.com/faran.butt.946)
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
@@ -11,7 +11,7 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 ```markdown
 Syntax highlighted code block
 
-# Header 1
+# Faran
 ## Header 2
 ### Header 3
 
